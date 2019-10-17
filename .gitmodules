@@ -1,0 +1,3 @@
+[submodule "thirdparty/nbobservable"]
+	path = thirdparty/nbobservable
+	url = https://github.com/sunbingfengPI/nbobservable.git
